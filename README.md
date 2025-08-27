@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋, I'm Milad Afzali  
 
-<!--
-**MiladAfzali-DP/MiladAfzali-DP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌍 About Me  
+I’m a **Front-End Developer** from **Kerman, Iran**.  
+Passionate about building clean, responsive, and user-friendly interfaces.  
+Always eager to learn new technologies and improve my skills every day 🚀.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills  
+- **Languages & Basics:** HTML, CSS, JavaScript  
+- **Frameworks & Libraries:** React (currently learning)  
+- **Design Tools:** Figma (basic knowledge)  
+- **Version Control:** Git & GitHub  
+
+---
+
+## 📫 Connect with Me  
+- 📱 Telegram: [@ZiroTen_010](https://t.me/ZiroTen_010)  
+
+---
+
+✨ _“Code is like art — the cleaner, the better.”_ ✨
