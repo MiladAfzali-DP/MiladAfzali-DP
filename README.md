@@ -1,4 +1,6 @@
-# Hi there 👋, I'm Milad Afzali  
+<h1 align="center">
+  Hi there 👋, I'm Milad Afzali  
+</h1> 
 
 ## 🌍 About Me  
 I’m a **Front-End Developer** from **Kerman, Iran**.  
