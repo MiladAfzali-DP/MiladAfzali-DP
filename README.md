@@ -1,4 +1,27 @@
-# Hi there 👋, I'm Milad Afzali  
+<div align="center">
+  <h1> Hi there 👋, I'm Milad Afzali  </h1>
+  <h4>Front-End Developer</h4>
+  <div>
+    <a href="https://t.me/ZiroTen_010">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" >
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" >
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" >
+    </a>
+  </div>
+    <a href="#">
+      <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" >
+    </a>
+  <br>
+  <img src="coding.gif" >
+  
+</div>
   
 
 
