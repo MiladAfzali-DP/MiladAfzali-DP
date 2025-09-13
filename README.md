@@ -1,6 +1,8 @@
 <div align="center">
   <h1> Hi there 👋, I'm Milad Afzali  </h1>
-  <p>I’m a <b>Front-End Developer</b> from <b>Kerman, Iran</b>. </p>
+  
+  I’m a <b>Front-End Developer</b> from `Kerman`, `Iran`. 
+  
   <div>
     <a href="https://t.me/ZiroTen_010">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" >
