@@ -45,7 +45,7 @@
 
 ___
   
-### 🌍 About Me
+### 🌍 &nbsp; About Me
 
  ```json
 {
@@ -58,6 +58,6 @@ ___
   }
   ```
 
-### ⏱ Activity 
+### ⏱ &nbsp; Activity 
 
 ![Grapg](https://github-readme-activity-graph.vercel.app/graph?username=MiladAfzali-DP&theme=merko)
