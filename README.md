@@ -20,8 +20,9 @@
     <a href="#">
       <img src="https://img.shields.io/badge/mac%20os-000000?style=plastic&logo=apple&logoColor=white" >
     </a>
-  <br>
-  <p>Click to see <a href="https://google.com"> My website.</a></p>
+  <br />
+  <img src="https://img.shields.io/badge/Website-Soon...-blue?style=flat&logo=google-chrome" />
+  <br />
   <img src="coding.gif" >
   <br>
   <br>
