@@ -21,14 +21,14 @@
       <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" >
     </a>
   <br>
-  <p>Click to see my <a href="https://google.com">Portfolio site.</a></p>
+  <p>Click to see <a href="https://google.com"> My website.</a></p>
   <img src="coding.gif" >
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=merko"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=MiladAfzali-DP&show_icons=true&theme=merko"/>
-  <br>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=MiladAfzali-DP&show_icons=true&theme=merko" height="165px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=merko" height="165px"/>
+  </div>
   <br>
   <div>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
