@@ -1,7 +1,7 @@
 <div align="center">
   <h1> Hi there 👋, I'm Milad Afzali  </h1>
   
-  I’m a <b>Front-End Developer</b> from `Kerman`, `Iran`. 
+  I’m a <b>Front-End Junior</b> from `Kerman`, `Iran`. 
   
   <div>
     <a href="https://t.me/ZiroTen_010">
