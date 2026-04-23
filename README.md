@@ -18,7 +18,7 @@
     </a>
   </div>
     <a href="#">
-      <img src="https://img.shields.io/badge/mac%20os-000000?style=plastic&logo=apple&logoColor=white" >
+      <img src="https://img.shields.io/badge/Mac%20Os-000000?style=plastic&logo=apple&logoColor=white" >
     </a>
   <br />
   <img src="https://img.shields.io/badge/Website-Soon...-blue?style=flat&logo=google-chrome" />
