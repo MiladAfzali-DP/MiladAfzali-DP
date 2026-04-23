@@ -56,7 +56,7 @@ ___
       "hobbies":["Coding", "Learning", "Design", "Game", "Football"],
       "languages": ["Java Script"],
       "quote": "Christian Heilmann: Java is to JavaScript what car is to carpet",
-      "currently": "Learning React.js & GitHib"
+      "currently": "Learning Next.js"
   }
   ```
 
