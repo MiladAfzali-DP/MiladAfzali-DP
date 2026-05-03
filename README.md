@@ -35,6 +35,7 @@
     <div>
       <img src="https://img.shields.io/badge/Html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5" />
       <img src="https://img.shields.io/badge/Css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
+      <img src="https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCss"/>
       <img src="https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="Java Script"/>
       <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React.js"/>
       <img src="https://img.shields.io/badge/Next.js-%23121011.svg?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
@@ -44,7 +45,6 @@
       <img src="https://img.shields.io/badge/Github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub"/>
       <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma"/>
       <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-      <img src="https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCss"/>
     </div>
   </div>
   
