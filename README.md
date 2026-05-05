@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" style="width:80%;">
   <h1> Hi there 👋, I'm Milad Afzali  </h1>
   
   I’m a ***Front-End Junior*** from `Kerman`, `Iran`. 
@@ -23,7 +24,7 @@
   <br />
   <img src="https://img.shields.io/badge/Website-Soon...-blue?style=flat&logo=google-chrome" />
   <br />
-  <img src="coding.gif" >
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" >
   <br>
   <br>
   <div>
