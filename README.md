@@ -63,7 +63,7 @@ ___
       "hobbies":["Coding", "Learning", "Solving problems", "Game", "Spending time with family"],
       "languages": ["Java Script"],
       "quote": "Christian Heilmann: Java is to JavaScript what car is to carpet",
-      "currently": "Learning TypeScript(TS)"
+      "currently": "Doing some mini project for deep learning ts & next."
   }
   ```
 
