@@ -60,8 +60,8 @@ ___
 {
       "fullName": "Milad Afzali"
       "birthDay": "2007 Desember 01"
-      "hobbies":["Coding", "Learning", "Solving problems", "Game", "Spending time with family"],
-      "languages": ["Java Script"],
+      "hobbies":["Coding", "Learning", "Solving problems", "Game", "Spending time with family", "Movies"],
+      "languages": ["Java Script", "Type Script"],
       "quote": "Christian Heilmann: Java is to JavaScript what car is to carpet",
       "currently": "Doing some mini project for deep learning ts & next."
   }
