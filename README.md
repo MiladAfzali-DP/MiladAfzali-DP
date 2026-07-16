@@ -43,6 +43,15 @@
       <img src="https://img.shields.io/badge/Next-%23121011.svg?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
     </div>
     <div>
+      <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white" alt="React Hook Form"/>
+      <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white" alt="React Query"/>
+      <img src="https://img.shields.io/badge/Shadcn/ui-%23000000.svg?style=flat&logo=shadcnui&logoColor=white" alt="Shadcn UI"/>
+    </div>
+    <div>
+      <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=flat&logo=redux&logoColor=white" alt="Redux"/>
+      <img src="https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react" alt="Context API"/>
+    </div>
+    <div>
       <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git"/>
       <img src="https://img.shields.io/badge/Github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub"/>
       <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma"/>
